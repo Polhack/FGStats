@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?>
+<Games>
+	<Game name="SFV" nb_round="3" nb_system="2" nb_mode_per_system="2" />
+	<Game name="GBFV" nb_round="3" nb_system="0" nb_mode_per_system="0"/>
+	<Game name="USF4" nb_round="3" nb_system="1" nb_mode_per_system="3"/>
+<!--	<Game name="USF4" nb_characters="1" nb_system="1" nb_mode_per_system="3"/> 
+	<Game name="SamSho" nb_characters="1" nb_system="0" nb_mode_per_system="0"/>
+	<Game name="SC6" nb_characters="1" nb_system="0" nb_mode_per_system="0"/>
+	<Game name="GBFV" nb_characters="1" nb_system="0" nb_mode_per_system="0"/>
+	<Game name="DBFZ" nb_characters="3" nb_system="0" nb_mode_per_system="0"/>  -->
+	
+	
+	<!--	<Game name="SC6" team_game="false" max_mode="1"/> -->
+</Games>
